@@ -5,7 +5,7 @@ Welcome to the SAP1 Computer Project repository! This project was developed as p
 
 
 ### Project Description
-This repository contains all the necessary files, documentation, and code for building and simulating the SAP1 computer. From the basic architecture design to the implementation of individual components such as the instruction register, arithmetic logic unit (ALU), memory, and control unit, this project provides a comprehensive exploration of computer organization principles.
+This repository contains all the necessary files, documentation, and code for building and simulating the SAP1 computer. From the basic architecture design to the implementation of individual components such as the instruction register, arithmetic logic unit (ALU), memory, and control unit, etc. This project provides a comprehensive exploration of computer organization principles.
 
 ### Contributors
 - S.M.B.G. Janakantha
