@@ -38,5 +38,3 @@ We welcome feedback and contributions from the community. If you have suggestion
 See the LICENSE file for details.
 
 ---
-
-Feel free to customize this description according to your project specifics!
