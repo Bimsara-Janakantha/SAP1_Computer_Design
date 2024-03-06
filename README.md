@@ -25,8 +25,8 @@ This project is funded by ACES (Asociation of Computer Engineering Students), su
 
 ### Resources
 - Detailed documentation
-- Verilog/VHDL code for hardware implementation
 - Simulator for testing and debugging
+- PCB Designs
 
 ### How to Use
 To get started with the SAP1 computer project, refer to the documentation provided in the `docs` directory. 
