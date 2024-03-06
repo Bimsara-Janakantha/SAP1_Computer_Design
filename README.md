@@ -35,7 +35,7 @@ To get started with the SAP1 computer project, refer to the documentation provid
 We welcome feedback and contributions from the community. If you have suggestions, improvements, or bug fixes, please submit a pull request or open an issue on GitHub.
 
 ### License
-This project is licensed under the [License Name] License. See the LICENSE file for details.
+See the LICENSE file for details.
 
 ---
 
