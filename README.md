@@ -39,6 +39,6 @@ See the LICENSE file for details.
 
 ### Special Thanks
 - Dr. Kamalanath Samarakoon (Supervisor)
-- Dr. Roshan Ragel (Head of the Department)
+- Prof. Roshan Ragel (Head of the Department)
 - ACES (Asociation of Computer Engineering Students)(Funding)
 ---
